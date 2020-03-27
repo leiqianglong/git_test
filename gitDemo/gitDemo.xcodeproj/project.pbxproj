@@ -17,7 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		253212F8242DD3160054A978 /* gitDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = gitDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		253212F8242DD3160054A978 /* 我的测试.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "我的测试.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		253212FB242DD3160054A978 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		253212FC242DD3160054A978 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		253212FE242DD3160054A978 /* SceneDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SceneDelegate.h; sourceTree = "<group>"; };
@@ -53,7 +53,7 @@
 		253212F9242DD3160054A978 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				253212F8242DD3160054A978 /* gitDemo.app */,
+				253212F8242DD3160054A978 /* 我的测试.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -93,7 +93,7 @@
 			);
 			name = gitDemo;
 			productName = gitDemo;
-			productReference = 253212F8242DD3160054A978 /* gitDemo.app */;
+			productReference = 253212F8242DD3160054A978 /* 我的测试.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -295,8 +295,8 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.lql.cn.gitDemo1;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.lql.cn.gitDemo1234;
+				PRODUCT_NAME = "我的测试";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -311,8 +311,8 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.lql.cn.gitDemo1;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.lql.cn.gitDemo1234;
+				PRODUCT_NAME = "我的测试";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
